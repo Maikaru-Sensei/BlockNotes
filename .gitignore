@@ -375,3 +375,5 @@ node_modules
 bin_output
 logs
 
+
+src/ethereum/start_remixd.sh
